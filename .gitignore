@@ -1,0 +1,27 @@
+# Unity / .NET folders
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+
+# Build artifacts and distribution
+dist/
+*.zip
+
+# Game assembly references (very large, never commit these)
+References/
+
+# Game-specific / Local testing / Logs
+other/
+logs/
+*.mp4
+*.m4a
+*.part
+cookies.txt
+LogOutput*.log
+LogOutput*.txt
+
+# Previous Forks / Original
+Forks/
+Original/
