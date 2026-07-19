@@ -55,7 +55,7 @@ To compile TVSync yourself, you will need the Lethal Company game assemblies.
 
 ## Installation (for players)
 
-If you just want to play the mod, please download it from **[Thunderstore](#)**.
+If you just want to play the mod, please download it from **[Thunderstore](https://thunderstore.io/c/lethal-company/p/Softlock/TVSync/)**.
 1. Install BepInEx.
 2. Drop `TVSync.dll` into your `BepInEx/plugins/` folder.
 3. The mod will automatically download `yt-dlp` and create the required configuration files on its first run.
